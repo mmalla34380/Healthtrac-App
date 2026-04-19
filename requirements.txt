@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+dash
+plotly
+pandas
+requests
+pytest
